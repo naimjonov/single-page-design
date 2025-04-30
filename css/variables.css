@@ -1,0 +1,41 @@
+:root {
+    /* Primary Colors */
+    --color-purple: #755CDE;
+    --color-orange: #F6A560;
+    --color-pink: #F39E9E;
+    --color-coral-red: #EB7565;
+    --color-turquoise: #61C4B7;
+    --color-dark-purple: #552049;
+  
+    /* Neutrals */
+    --color-black: #030303;
+    --color-olive-gray: #7A746E;
+    --color-cream-bg: #FFF7F0;
+  
+    /* RGB Values (optional reference) */
+    --rgb-purple: 117, 92, 222;
+    --rgb-orange: 246, 165, 96;
+    --rgb-pink: 243, 158, 158;
+    --rgb-coral-red: 235, 117, 101;
+    --rgb-turquoise: 97, 196, 183;
+    --rgb-dark-purple: 85, 32, 73;
+    --rgb-black: 3, 3, 3;
+    --rgb-olive-gray: 122, 116, 110;
+    --rgb-cream-bg: 255, 247, 240;
+  
+    /* Typography (based on the image) */
+    --font-family-primary: "Plus Jakarta Sans", sans-serif;
+  
+    /* Font Sizes */
+    --font-size-heading-l: 56px;
+    --font-size-heading-m: 40px;
+    --font-size-heading-s: 32px;
+    --font-size-body: 18px;
+  
+    /* Line Heights */
+    --line-height-heading-l: 70px;
+    --line-height-heading-m: 51px;
+    --line-height-heading-s: 40px;
+    --line-height-body: 28px;
+  }
+  
